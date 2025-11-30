@@ -22,7 +22,7 @@ Participants can:
 
 ---
 
-## Files in this Folder
+## Files in this Folder (from December 2025)
 - Feedback summaries  
 - Project outlines  
 - Reading notes  
