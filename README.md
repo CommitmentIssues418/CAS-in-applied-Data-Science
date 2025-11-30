@@ -1,4 +1,4 @@
-# CAS in Applied Data Science — Coursework and Documentation
+# CAS in Applied Data Science: Coursework and Documentation
 
 This repository contains all course materials, exercises, notebooks, and project work completed during the **CAS in Applied Data Science** at the University of Bern from August 2025 to August 2026.  
 Each module has its own folder, which includes scripts, data, documentation, and results.  
