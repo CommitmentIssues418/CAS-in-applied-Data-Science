@@ -7,14 +7,8 @@ Participants learn to understand different types of data sources, define data st
 ---
 
 ## Learning Objectives
-After completing this module, participants are able to:
+learn to understand different data sources and types and how to design data management models and plans.
 
-- identify and categorize different data types (structured, semi-structured, unstructured)  
-- evaluate data sources and assess data quality  
-- implement basic data acquisition workflows  
-- design a data management model  
-- create a data management plan (CDR)  
-- understand metadata standards and FAIR principles  
 
 ---
 
